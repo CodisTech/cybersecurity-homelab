@@ -17,7 +17,7 @@ For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have 
     * **Hard Drive: *Seagate Exos X18 16TB Enterprise HDD - CMR 3.5 Inch Hyperscale SATA 6Gb/s*** [Segate Exos x 16](https://www.amazon.com/dp/B0924X39NB?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
     * **NIC:**
     * **PSU: *CORSAIR SF850 (2024) Fully Modular Low Noise 80 Plus Platinum ATX Power Supply – ATX 3.0 Compliant – PCIe 5.0 Ready – SFX-to-ATX Bracket Included*** [Corsair SF850](https://www.amazon.com/dp/B0D45PQ8C4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
-    * **HeatSink: *Noctua NH-L9x65 chromax.Black, Premium Low-Profile CPU Cooler (65mm, Black)*** [https://www.amazon.com/dp/B0CKVZ2NZ1?ref=ppx_yo2ov_dt_b_fed_asin_title]
+    * **HeatSink: *Noctua NH-L9x65 chromax.Black, Premium Low-Profile CPU Cooler (65mm, Black)*** [Noctua NH-L9x65](https://www.amazon.com/dp/B0CKVZ2NZ1?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 1. **Server 2: *Ultron***
     * **Case: *Rosewill 4U Server Chassis Rackmount Case | 12 Hot Swap 3.5", 2.5" SATA I, SATA II, SATA III SAS*** [Rosewill 4U](https://www.newegg.com/rosewill-rsv-l4412u-black/p/11-147-330?Item=11-147-330&cm_sp=product-_-from-price-options)
