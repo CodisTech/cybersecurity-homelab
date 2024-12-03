@@ -73,7 +73,7 @@ Each YAML file contains detailed configuration settings for its respective servi
 
 For detailed instructions on setting up and configuring Traefik in this homelab (based on Techno-Tim's guide), please refer to:
 
-[Traefik Setup Guide](documentation/traefik-setup.md)
+[Traefik Setup Guide](https://github.com/CodisTech/cybersecurity-homelab/blob/main/documentation/docker-compose/traefik_3.0/traefik-setup.md)
 
 
 ---
