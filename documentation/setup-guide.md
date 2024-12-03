@@ -7,7 +7,8 @@ This guide provides a high-level overview of setting up the cybersecurity homela
 ### Hardware
 For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have custom built.  Below is a breakdown of eah:
 
-Server 1:
+1. **Server 1:**
+    * **Authelia:** 
     * **Case:**
     * **Motherboard:**
     * **Processor:**
