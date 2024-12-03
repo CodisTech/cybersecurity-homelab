@@ -31,8 +31,8 @@ This home lab utilizes a multi-machine setup. Ensure you have the following hard
 * **pfSense:** Download the latest stable version from the official pfSense website. [Download Link](https://www.pfsense.org/download/)
 * **Proxmox VE:** Download the latest stable ISO from the official Proxmox website. [Download Link](https://www.proxmox.com/en/downloads)
 * **UnRAID:** Purchase and download UnRAID from their official website. [Website Link](https://unraid.net/) *(Note: This requires a paid license)*
-* **Operating System for VMs (Linux Server):** For this setup I am using Ubuntu Server.  Of course there are many other flavors to choose, but I have used Ubunut for many years therefore, I will be sticking with it. [Website Link](https://ubuntu.com/download/server)
-* **(Optional Tools):** List any additional software you'll be using within the VMs.
+* **Operating System for VMs (Linux Server):** For this setup I am using Ubuntu Server 22.04 LTS.  Of course there are many other flavors to choose, but I have used Ubunut for many years therefore, I will be sticking with it. [Website Link](https://ubuntu.com/download/server)
+* **(Optional Tools):** I am using Docker on one Ubuntu Server VM with all containers I have deployed.  Here is a list of all docker containers.
 
 **Network Configuration:**
 
