@@ -1,6 +1,6 @@
 # Cybersecurity Homelab
 
-This repository contains configurations, scripts, and documentation for setting up and maintaining a personal cybersecurity homelab. The homelab is designed for learning, testing, and improving cybersecurity skills in a controlled environment.
+This repository documents my journey of exploring and learning various facets of cybersecurity through the setup and configuration of a personal home lab. The goal is to provide a hands-on environment for experimenting with different security tools and techniques. This project is a work in progress, and I will be continuously updating it as I learn and expand my knowledge. The scripts and configurations contained herein are intended for educational purposes and should not be used in any unauthorized or illegal activities. Contributions and feedback are welcome!
 
 ## Folder Structure
 - **documentation/**: Guides and write-ups.
