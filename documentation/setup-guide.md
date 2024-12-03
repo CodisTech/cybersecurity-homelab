@@ -7,8 +7,7 @@ This guide provides a high-level overview of setting up the cybersecurity homela
 ### Hardware
 For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have custom built.  Below is a breakdown of eah:
 
-1. **Server 1:**
-    * **Authelia:** 
+1. **Server 1: IronMan**
     * **Case:**
     * **Motherboard:**
     * **Processor:**
@@ -20,29 +19,29 @@ For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have 
     * **PSU:**
     * **GPU:**
 
-Server 2:
-**Case:**
-**Motherboard:**
-**Processor:**
-**Ram:**
-**SSD:**
-**NVME:**
-**Hard Drive:**
-**NIC:**
-**PSU:**
-**GPU:**
+1. **Server 2: Ultron**
+    * **Case:**
+    * **Motherboard:**
+    * **Processor:**
+    * **Ram:**
+    * **SSD:**
+    * **NVME:**
+    * **Hard Drive:**
+    * **NIC:**
+    * **PSU:**
+    * **GPU:**
 
-Server 3:
-**Case:**
-**Motherboard:**
-**Processor:**
-**Ram:**
-**SSD:**
-**NVME:**
-**Hard Drive:**
-**NIC:**
-**PSU:**
-**GPU:**
+1. **Server 3: Captain**
+    * **Case:**
+    * **Motherboard:**
+    * **Processor:**
+    * **Ram:**
+    * **SSD:**
+    * **NVME:**
+    * **Hard Drive:**
+    * **NIC:**
+    * **PSU:**
+    * **GPU:**
 
 ### Network
 
