@@ -5,9 +5,21 @@ This guide provides a high-level overview of setting up the cybersecurity homela
 ## Prerequisites
 
 ### Hardware
-For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have custom built.  Below is a breakdown of eah:
+For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have custom built.  Below is a breakdown of hardware for each:
 
 1. **Server 1: *IronMan***
+    * **Case: *JONSBO N4 BLACK NAS mini Chassis*** [JONSBO N4](https://www.newegg.com/p/2AM-006A-000F1?Item=9SIAY3SK6A9556)
+    * **Motherboard: *ASUS Prime B650M-A AX II AMD B650*** [Asus Prime B650M-A](https://www.newegg.com/asus-rog-strix-b650-a-gaming-wifi/p/N82E16813119631?Item=N82E16813119631)
+    * **Processor:**
+    * **Ram:**
+    * **SSD:**
+    * **NVME:**
+    * **Hard Drive:**
+    * **NIC:**
+    * **PSU:**
+    * **GPU:**
+
+1. **Server 2: *Ultron***
     * **Case:**
     * **Motherboard:**
     * **Processor:**
@@ -19,19 +31,7 @@ For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have 
     * **PSU:**
     * **GPU:**
 
-1. **Server 2: Ultron**
-    * **Case:**
-    * **Motherboard:**
-    * **Processor:**
-    * **Ram:**
-    * **SSD:**
-    * **NVME:**
-    * **Hard Drive:**
-    * **NIC:**
-    * **PSU:**
-    * **GPU:**
-
-1. **Server 3: Captain**
+1. **Server 3: *Captain***
     * **Case:**
     * **Motherboard:**
     * **Processor:**
