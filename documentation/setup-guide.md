@@ -5,7 +5,7 @@ This guide provides a high-level overview of setting up the cybersecurity homela
 ## Prerequisites
 
 ### Hardware
-For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have custom built.  Below is a breakdown of hardware for each:
+For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have custom built. Two of them are conusumer grade HW and the third is server HW.  Below is a breakdown of hardware for each:
 
 1. **Server 1: *Captain*** Proxmox
     * **Case: *JONSBO N4 BLACK NAS mini Chassis*** [JONSBO N4](https://www.newegg.com/p/2AM-006A-000F1?Item=9SIAY3SK6A9556)
@@ -48,6 +48,14 @@ For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have 
     * **HBA: *LSI 9300-8i PCI-Express 3.0 SATA / SAS 8-Port SAS3 12Gb/s HBA - Single--Avago Technologies*** [LSI 9300-8i](https://www.newegg.com/lsi-9300-8i-sata-sas/p/14G-0006-000Y2?Item=9SIBK5TJTW8345)
 
 ### Network
+
+1. **Router:**
+    * **Dell Precision** - I have a barebones install of PfSense.
+2. **Switch:**
+    * **Lite 8 PoE** - [USW-Lite-8-POE (52W)](https://store.ui.com/us/en/category/all-switching/products/usw-lite-8-poe)
+3. **Access Points:**
+    * **U6 Mesh** - [U6-Mesh](https://store.ui.com/us/en/category/all-wifi/products/u6-mesh)
+    * **U6 Extender** - [U6-Extender](https://store.ui.com/us/en/category/all-wifi/products/u6-extender)
 
 ### Software
 
