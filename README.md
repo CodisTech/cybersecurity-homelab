@@ -55,8 +55,6 @@ To begin setting up your cybersecurity home lab, follow the detailed instruction
 
 ## License
 
-## License
-
 MIT License
 
 Copyright (c) [2024] [CodisTech]
