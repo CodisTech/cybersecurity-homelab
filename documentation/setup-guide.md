@@ -7,7 +7,7 @@ This guide provides a high-level overview of setting up the cybersecurity homela
 ### Hardware
 For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have custom built.  Below is a breakdown of hardware for each:
 
-1. **Server 1: *Captain***
+1. **Server 1: *Captain*** Proxmox
     * **Case: *JONSBO N4 BLACK NAS mini Chassis*** [JONSBO N4](https://www.newegg.com/p/2AM-006A-000F1?Item=9SIAY3SK6A9556)
     * **Motherboard: *ASUS Prime B650M-A AX II AMD B650*** [Asus Prime B650M-A](https://www.newegg.com/asus-rog-strix-b650-a-gaming-wifi/p/N82E16813119631?Item=N82E16813119631)
     * **Processor: *AMD Ryzen 9 7900X*** [AMD Ryzen 9](https://www.newegg.com/amd-ryzen-9-7900x-ryzen-9-7000-series-raphael-zen-4-socket-am5/p/N82E16819113769?Item=N82E16819113769)
@@ -19,7 +19,7 @@ For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have 
     * **PSU: *CORSAIR SF850 (2024) Fully Modular Low Noise 80 Plus Platinum ATX Power Supply – ATX 3.0 Compliant – PCIe 5.0 Ready – SFX-to-ATX Bracket Included*** [Corsair SF850](https://www.amazon.com/dp/B0D45PQ8C4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
     * **HeatSink: *Noctua NH-L9x65 chromax.Black, Premium Low-Profile CPU Cooler (65mm, Black)*** [Noctua NH-L9x65](https://www.amazon.com/dp/B0CKVZ2NZ1?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-1. **Server 2: *Ultron***
+1. **Server 2: *Ultron*** UnRAID
     * **Case: *Rosewill 4U Server Chassis Rackmount Case | 12 Hot Swap 3.5", 2.5" SATA I, SATA II, SATA III SAS*** [Rosewill 4U](https://www.newegg.com/rosewill-rsv-l4412u-black/p/11-147-330?Item=11-147-330&cm_sp=product-_-from-price-options)
     * **Motherboard: *ASUS TUF Gaming X570-PRO (WiFi 6) AM4 Zen 3 Ryzen 5000 & 3rd Gen Ryzen ATX Motherboard*** [Asus TUF Gaming x570-PRO](https://www.amazon.com/dp/B08JWMPVD9?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
     * **Processor: *AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor*** [AMD Ryzen 9](https://www.amazon.com/dp/B08164VTWH?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_1&th=1)
@@ -32,7 +32,7 @@ For my setup, I have 3 servers: 2 Proxmox and one Unraid.  These servers I have 
     * **HeatSink: *Cooler Master Hyper 212 EVO V2 CPU Air Cooler with SickleFlow 120, PWM Fan*** [Cooler Master](https://www.amazon.com/dp/B08KD6SPLW?ref=ppx_yo2ov_dt_b_fed_asin_title)
     * **CaseFan: *Noctua NF-A8 PWM chromax.Black.swap, Premium Quiet Fan, 4-Pin (80mm, Black)*** [Noctua NF-A8 x2](https://www.amazon.com/dp/B07ZH1F2KH?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-1. **Server 3: *IronMan***
+1. **Server 3: *IronMan*** Proxmox
     * **Case: *Rosewill 4U Server Chassis Rackmount Case*** [Rosewill 4U](https://www.newegg.com/rosewill-rsv-l4500u-black/p/N82E16811147328?Item=N82E16811147328)
     * **Motherboard: *SuperMicro H11DSI-NT Rev2.0 Dual Gigabit Ethernet for EPYC7001-7002 Series*** [SuperMicro H11DSI](https://www.ebay.com/itm/175819781282)
     * **Processor:**
