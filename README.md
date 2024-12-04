@@ -18,14 +18,15 @@ This repository documents my journey of exploring and learning various facets of
 
 ## Prerequisites
 
-This home lab utilizes a multi-machine setup. Ensure you have the following hardware and software before proceeding.
+This home lab utilizes a multi-machine setup. Below is a brief list of hardware for each machine:
 
 **Hardware:**
 
-* **Three physical machines (or VMs with sufficient resources):**
-    * **Machine 1 (Firewall):** Dedicated to running pfSense. A quad-core processor, 4GB RAM, and 16GB of storage are a reasonable minimum.
-    * **Machine 2 (Hypervisor):** Dedicated to running Proxmox VE. A minimum of 8GB RAM and 64GB of storage is recommended.
-    * **Machine 3 (Storage Server):** Running UnRAID. A minimum of 16GB RAM and 1TB of storage is recommended.
+* **Four physical machines (or VMs with sufficient resources):**
+    * **Machine 1 (Firewall):** Dedicated to running pfSense. A quad-core processor, 4GB RAM, and 120GB HD storage.
+    * **Machine 2 (Hypervisor):** Dedicated to running Proxmox VE. 256GB RAM and 2TB SSDs Raid10, of storage for VMs.
+    * **Machine 3 (Hypervisor):** Dedicated to running Proxmox VE. 128GB RAM and 2TB NVME of storage for VMs.
+    * **Machine 3 (Storage Server):** Running UnRAID. 128GB RAM and 80TB HD storage. Plus thumbdrive, maximum of 60GB (for OS).
 
 **Software:**
 
