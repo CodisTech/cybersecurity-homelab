@@ -6,7 +6,7 @@ This repository documents my journey of exploring and learning various facets of
 
 ## Folder Structure
 
-- **documentation/**: Guides, diagrams, and documentation for setting up and using the homelab, including Traefik setup instructions.
+- **documentation/**: Guides, diagrams, and documentation for setting up and using the homelab.
 - **configs/**: Configuration files for various tools and services within the homelab.
 - **scripts/**: Automation and utility scripts used in the homelab setup and maintenance.
 - **logs/**: Sample log files (for demonstration purposes).
