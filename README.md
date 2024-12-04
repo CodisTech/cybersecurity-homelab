@@ -58,11 +58,29 @@ The following services are defined:
 
 | File Name             | Description                                                                     |
 |-----------------------|---------------------------------------------------------------------------------|
+| `authelia.yaml`      | Sets up an Nginx web server container for hosting a website or application.     |
+| `Grafana-Unraid-Stack` | ...                                                                           |
+| `HandBrake` | ...                                                                           |
+| `HandBrake-for-Nvidia` | ...                                                                           |
+| `Nginx-Proxy-Manager-Official` | ...                                                                           |
+| `NginxProxyManager` | ...                                                                           |
+| `Notifiarr` | ...                                                                           |
+| `ClamAV` | ...                                                                           |
+| `Cloudflared` | ...                                                                           |
+| `Code-Server` | ...                                                                           |
+| `Crowdsec` | ...                                                                           |
+| `Duplicacy` | ...                                                                           |
+| `Gieta` | ...                                                                           |
+| `Heimdall` | ...                                                                           |
+| `Influxdb` | ...                                                                           |
+| `Mariadb` | ...                                                                           |
+| `Nextcloud` | ...                                                                           |
+| `Pihole` | ...                                                                           |
+| `Prometheus` | ...                                                                           |
+| `Redis` | ...                                                                           |
+| `RXV4` | ...                                                                           |
+| `Speedtest-tracker` | ...                                                                           |
 | `traefik.yaml`        | Defines the Traefik reverse proxy container, routing traffic to other services. |
-| `webserver.yaml`      | Sets up an Nginx web server container for hosting a website or application.     |
-| `database.yaml`       | Configures a PostgreSQL database container for storing application data.         |
-| `monitoring.yaml`     | Deploys a Prometheus and Grafana stack for monitoring the homelab services.      |
-| `registry.yaml`       | Runs a private Docker registry for storing custom container images.             |
 | `...other file.yaml` | ...                                                                           |
 
 
