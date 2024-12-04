@@ -58,7 +58,7 @@ The following services are defined:
 
 | File Name             | Description                                                                     |
 |-----------------------|---------------------------------------------------------------------------------|
-| `authelia.yaml`      | Sets up an Nginx web server container for hosting a website or application.     |
+| `authelia`      | Sets up an Nginx web server container for hosting a website or application.     |
 | `Grafana-Unraid-Stack` | ...                                                                           |
 | `HandBrake` | ...                                                                           |
 | `HandBrake-for-Nvidia` | ...                                                                           |
@@ -80,7 +80,7 @@ The following services are defined:
 | `Redis` | ...                                                                           |
 | `RXV4` | ...                                                                           |
 | `Speedtest-tracker` | ...                                                                           |
-| `traefik.yaml`        | Defines the Traefik reverse proxy container, routing traffic to other services. |
+| `traefik`        | Defines the Traefik reverse proxy container, routing traffic to other services. |
 | `...other file.yaml` | ...                                                                           |
 
 
