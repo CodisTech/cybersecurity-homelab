@@ -26,7 +26,7 @@ This home lab utilizes a multi-machine setup. Below is a brief list of hardware 
     * **Machine 1 (Firewall):** Dedicated to running pfSense. A quad-core processor, 4GB RAM, and 120GB HD storage.
     * **Machine 2 (Hypervisor):** Dedicated to running Proxmox VE. 256GB RAM and 2TB SSDs Raid10, of storage for VMs.
     * **Machine 3 (Hypervisor):** Dedicated to running Proxmox VE. 128GB RAM and 2TB NVME of storage for VMs.
-    * **Machine 3 (Storage Server):** Running UnRAID. 128GB RAM and 80TB HD storage. Plus thumbdrive, maximum of 60GB (for OS).
+    * **Machine 4 (Storage Server):** Running UnRAID. 128GB RAM and 80TB HD storage. Plus thumbdrive, maximum of 60GB (for OS).
 
 **Software:**
 
